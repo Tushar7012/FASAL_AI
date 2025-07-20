@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+opencv-python-headless
+Pillow
+langchain
+langchain-groq
+python-dotenv
+-e .
